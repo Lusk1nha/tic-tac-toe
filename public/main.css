@@ -23,6 +23,8 @@
 body {
     background-color: var(--background-color);
 
+    min-width: 200px;
+    min-height: 550px;
     height: 100vh;
     
     position: relative;
@@ -56,6 +58,8 @@ body {
 
 #author a {
     text-decoration: none;
+
+    cursor: pointer;
 
 }
 
