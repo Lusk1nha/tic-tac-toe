@@ -1,6 +1,8 @@
 @media screen and (max-width: 980px) {
     #author {
-        bottom: 22vh;
+        bottom: 10vh;
+
+        margin-bottom: 50px;
 
     }
 
@@ -25,7 +27,7 @@
         width: 300px;
         height: 300px;
 
-        margin-bottom: 50px;
+        margin-bottom: 100px;
 
     }
     
