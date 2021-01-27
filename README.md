@@ -1,16 +1,17 @@
-# Tarefinha Todo-List 
+# Neon Tic Tac Toe 
 
-A todo-list with drag function 
+A neon Tic Tac Toe game one of my first projects. 
 
-With this project a learn about elements with effects and drag function
+With this project, I learned about matrix and 
+I could see a bit about how to gaming development in JavaScript.
 
-Coded by me!
+###### All this coded by me!
 
-# Technologies
+## Technologies
 
-HTML5, CSS3 and JavaScript
+##### HTML5, CSS3 and JavaScript
 
 ## Result
 
-> ### See the result live [here](https://todo-list-vercel.vercel.app/) 
-[![codepen.io](https://github.com/Lusk1nha/profile-card-component/blob/master/src/assets/profile-card-component.png)](https://todo-list-vercel.vercel.app/)
+> #### See the result live [here](https://tic-tac-toe-vercel.vercel.app/) 
+[![vercel.app]()](https://tic-tac-toe-vercel.vercel.app/)
