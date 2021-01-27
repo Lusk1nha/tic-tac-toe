@@ -54,6 +54,11 @@ body {
 
 }
 
+#author a {
+    text-decoration: none;
+
+}
+
 #subtitle {
     font-size: 50px;
     color: var(--hover-border-color);
