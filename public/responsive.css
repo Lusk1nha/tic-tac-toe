@@ -1,6 +1,13 @@
 @media screen and (max-width: 980px) {
+    body {
+        min-height: 500px;
+
+    }
+
     #author {
         bottom: 7vh;
+
+        font-size: 12px;
 
         margin-bottom: 50px;
 
